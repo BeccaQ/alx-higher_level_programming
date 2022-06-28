@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Compiling ${PYFILE} ..."
+cat $PYFILE > ${PYFILE}c
